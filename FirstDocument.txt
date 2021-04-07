@@ -5,3 +5,4 @@ git commit -m "Commiting files to repo" (For Commiting files to repo)
 git remote add origin <Repository URL> (To add remote repo)
 git push -u origin master (to push to remote repo)
 
+open somting
